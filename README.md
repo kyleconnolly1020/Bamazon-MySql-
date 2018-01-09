@@ -46,7 +46,7 @@ Manager view will begin by giving the mangaer varying actions that they can take
 
 - **Add to Inventory** - Will prompt the manager for which currently-provided item they would like to add more stock of, as well as the quantity they would like to add. Bamazon will send a confirmation message based on which item/items were added.
 
-![Add to Inventory]
+![]
 (/Users/kyleconnolly1020/Desktop/code/Bamazon-MySql/app_screenshots/addToInventory.png)
 
 - **Add New Product** - Will allow the manager to add an entirely new product to the store's offerings. If selected, Bamazon will prompt a manager for the name of the product, the department in which it will be sold, its price, and the initial stock being held. 
