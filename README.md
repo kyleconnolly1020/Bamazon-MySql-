@@ -20,13 +20,11 @@ Customer view will begin by displaying all of the products available for sale at
 
 The customer will then be prompted as to which product they would like to purchase, as well as how many units of the product they are looking to purchase. 
 
-![Product Purchase Prompt]
-(./app_screenshots/Product Purchase.png)
+![Product Purchase Prompt](app_screenshots/productPurchase.png)
 
 Once the customer submits their inputs, Bamazon will log the customer's order and display their total costs. 
 
-![Total Cost]
-(./app_screenshots/Product Purchase w: Total Cost.png)
+![Total Cost](app_screenshots/productPurchaseWTotalCost.png)
 
 The sold items will be removed from the available stock, which can subsequently be seen in the Manager View. 
 
@@ -35,27 +33,22 @@ Manager view will begin by giving the mangaer varying actions that they can take
 
 - **View Product for Sale** - Will display all of the products available for sale at that given time, listing the product ID, product name, price, and quantity in stock. 
 
-![View Products for Sale]
-(./app_screenshots/View Products for Sale.png)
+![View Products for Sale](app_screenshots/viewProductsForSale.png)
 
 - **View Low Inventory** - Will display products which have a current stock of less than 5. If no such item has a stock of less than 5, the manager will be shown that 
 >There are currently no items with low inventory. 
 
-![View Low Inventory]
-(./app_screenshots/View Low Inventory.png)
+![View Low Inventory](app_screenshots/viewLowInventory.png)
 
 - **Add to Inventory** - Will prompt the manager for which currently-provided item they would like to add more stock of, as well as the quantity they would like to add. Bamazon will send a confirmation message based on which item/items were added.
 
-! [Add to Inventory]
-(app_screenshots/addToInventory.png)
+![Add to Inventory](app_screenshots/addToInventory.png)
 
 - **Add New Product** - Will allow the manager to add an entirely new product to the store's offerings. If selected, Bamazon will prompt a manager for the name of the product, the department in which it will be sold, its price, and the initial stock being held. 
 
-![]
-(/app_screenshots/addNewProduct.png)
+![Add New Product](app_screenshots/addNewProduct.png)
 
-![New Product being Shown]
-(./app_screenshots/New Product Shown.png)
+![New Product being Shown](app_screenshots/newProductShown.png)
 
 - **Exit** - Will exit the CLI
 
