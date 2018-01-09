@@ -52,7 +52,7 @@ Manager view will begin by giving the mangaer varying actions that they can take
 - **Add New Product** - Will allow the manager to add an entirely new product to the store's offerings. If selected, Bamazon will prompt a manager for the name of the product, the department in which it will be sold, its price, and the initial stock being held. 
 
 ![Add New Product]
-(./app_screenshots/Add New Product.png)
+(Bamazon-MySql/app_screenshots/Add New Product.png)
 
 ![New Product being Shown]
 (./app_screenshots/New Product Shown.png)
